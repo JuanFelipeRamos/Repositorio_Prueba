@@ -1,0 +1,4 @@
+nombre: Juan Felipe Ramos Rojas
+correo: jr9385197@gmail.com
+
+git status
